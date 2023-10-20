@@ -4,5 +4,5 @@ def add(a, b):
 def subtract(a, b):
   return a-b
 
-def multiple(a,b):
+def multiple_main(a,b):
   return a*b
